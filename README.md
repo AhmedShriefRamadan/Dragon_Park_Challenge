@@ -8,6 +8,8 @@ This document provides documentation for the DragonPark API, which manages drago
 
 ## Dragon Endpoints
 
+## Before you expose the API you always get endpoint with dragon's ID AND I commented that and you will understand it from the code and i do this to be unified and readable and also some arguments will be not with id but with the name to make request easy for the user also and this is all in the view of the system.
+
 ### Add Dragon
 
 - **URL:** `/add/`
